@@ -3,5 +3,5 @@
 ## Test
 
 * [VR](./VR_1.html)
-* [VR Pieds](./marelle_pieds.html)
-* [VR Pieds Mains](./marelle_pieds-mains.html)
+* [VR Pieds](./test.html)
+* [VR Pieds Mains](./pieds-mains.html)
